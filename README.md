@@ -4,7 +4,7 @@
 
 This guide provides a step-by-step approach to troubleshooting various technical issues. These skills are tailored for IT professionals and enthusiasts dealing with network, software, and hardware challenges.
 
-## Steps
+## Steps:
 
 ### 1. Network Troubleshooting
 
