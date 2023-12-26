@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide provides a step-by-step approach to troubleshooting various technical issues, inspired by the PB&J sandwich method. These skills are tailored for IT professionals and enthusiasts dealing with network, software, and hardware challenges.
+This guide provides a step-by-step approach to troubleshooting various technical issues. These skills are tailored for IT professionals and enthusiasts dealing with network, software, and hardware challenges.
 
 ## Ingredients
 
